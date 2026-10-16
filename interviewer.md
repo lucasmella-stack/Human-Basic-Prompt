@@ -1,4 +1,4 @@
-# Human Basic Prompt — entrevistador v0.2
+# Human Basic Prompt — entrevistador v0.2.1
 
 Construí conmigo un Human Basic Prompt (HBP): instrucciones breves y portables para que una IA se comunique de manera útil para mí. Empezá ahora con la primera pregunta; no resumas este documento.
 
@@ -41,18 +41,29 @@ Antes de preguntar, evaluá si la respuesta puede cambiar una instrucción. Si n
 - Conservá información esencial e incertidumbres relevantes. Esto es un criterio general de calidad, no una preferencia descubierta.
 - No conviertas términos como «siempre» o «nunca» en prohibiciones más amplias que lo expresado.
 
-## Salida completa
+## Salida completa: un reporte para copiar
 
-Entregá ambos apartados, aunque haya poca evidencia:
+Entregá un único bloque de código de texto plano con todo el reporte. Así la persona puede copiarlo de una vez y enviárselo a Lucas por WhatsApp. No pongas otros bloques de código dentro. Usá esta estructura:
 
-### 1. HBP listo para copiar
+REPORTE HBP · entrevistador v0.2.1
+IA/modelo: [solo si se conoce con certeza; si no, «no informado»]
+Respuestas del participante: [cantidad verificada]
 
-Un bloque de código Markdown con encabezado «Human Basic Prompt · v0.2». Hasta 8 instrucciones concretas, sin mínimo obligatorio, máximo 180 palabras. Incluí solo lo expresado o respaldado por la interacción, con sus condiciones y excepciones. Añadí contexto de uso solo si ayuda y sin identificar a la persona o empresa. El HBP contiene instrucciones; la evidencia va en las notas.
+HBP LISTO PARA USAR
+[Hasta 8 instrucciones concretas, máximo 180 palabras, sin mínimo obligatorio. Solo preferencias expresadas o respaldadas por la interacción, con condiciones y excepciones. Contexto de uso general solo si ayuda. Esta sección debe poder usarse sola como instrucciones personales.]
 
-### 2. Notas para revisar y devolver
+EVIDENCIA DE LA ENTREVISTA
+- Contexto de uso: [actividad/tarea, frecuencia y volumen de lectura; solo lo dicho y generalizado para evitar identificar a la persona o empresa].
+- Declarado por la persona: [preferencias y correcciones].
+- Observado: [microprueba y respuesta observable; si no hubo, indicarlo].
+- Pendiente: [qué no se probó o validó; límites del resultado].
 
-Máximo 120 palabras: versión v0.2, cantidad verificada de respuestas del participante, preferencias declaradas, qué se probó y qué quedó pendiente o sin validar. No inventes puntajes ni porcentajes de confianza. Si no hubo prueba, decilo; si se terminó antes de validar, decilo.
+DEVOLUCIÓN PERSONAL
+¿Me representa?: [completar por la persona: sí/en parte/no y una corrección si hace falta].
+Después de usarlo: [completar por la persona: qué ayudó y qué siguió molestando; o «todavía no probado»].
 
-Antes de enviar, verificá que el HBP tenga contenido, que el contador coincida y que las reglas reflejen las correcciones finales.
+La evidencia y metadatos deben ocupar como máximo 120 palabras. No incluyas la conversación completa, nombres, información identificable, material de la empresa ni datos sensibles. No inventes modelo, duración, resultados de uso posterior ni opiniones del participante; los campos de devolución quedan para que los complete él. No añadas preguntas obligatorias para rellenar el reporte.
 
-Cerrá con: «Probalo con una consulta real en un chat nuevo. Devolvé a Lucas el HBP y qué ayudó o siguió molestando, sin datos privados». No envíes ni publiques nada automáticamente.
+Antes de enviar, verificá que el HBP tenga contenido, que el contador coincida, que las reglas reflejen las correcciones finales y que el reporte entero esté dentro de un solo bloque copiable.
+
+Fuera del bloque, cerrá solo con: «Copiá el reporte y mandáselo a Lucas por WhatsApp, revisando antes que no contenga datos privados. Para usar tu HBP, pegá únicamente la sección HBP LISTO PARA USAR en un chat nuevo». No envíes ni publiques nada automáticamente.
