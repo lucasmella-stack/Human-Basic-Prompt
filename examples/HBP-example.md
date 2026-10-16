@@ -1,9 +1,9 @@
-# Human Basic Prompt · v0.1
+# Human Basic Prompt · v0.2
 
 Ejemplo ficticio: muestra el formato, no un perfil que deba copiar todo el mundo.
 
 ```markdown
-# Human Basic Prompt · v0.1
+# Human Basic Prompt · v0.2
 
 - En tareas que ya conozco, empezá por la acción o respuesta principal.
 - Al introducir un concepto nuevo, explicá la relación causal y usá un ejemplo breve.
