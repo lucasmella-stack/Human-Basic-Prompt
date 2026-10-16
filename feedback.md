@@ -1,15 +1,12 @@
-# Devolución de prueba · v0.2
+# Devolución de prueba · v0.2.1
 
-Enviá esta ficha a Lucas junto con tu HBP. No hace falta compartir el chat completo.
+La IA entrega al finalizar un único bloque «REPORTE HBP» que incluye tu HBP, las preferencias declaradas, lo observado y lo pendiente.
 
-- Versión del entrevistador: v0.2.
-- IA y modelo utilizado (si aparece):
-- Duración aproximada que mediste vos / cantidad de respuestas tuyas:
-- ¿La entrevista recogió tu actividad, tarea y uso habitual de IA sin repetir preguntas?
-- HBP generado y notas de la entrevista:
-- ¿Representa cómo querés recibir ayuda? Sí / en parte / no. ¿Qué cambiarías?
-- Después de probarlo: ¿qué mejoró y qué siguió molestando?
-- Si comparaste la misma consulta con y sin HBP: ¿con cuál la resolviste o entendiste mejor y con menos esfuerzo? ¿Por qué?
-- Ejemplo breve opcional, sin datos privados:
+1. Copiá ese bloque completo.
+2. Completá «¿Me representa?». Si todavía no probaste el HBP en una tarea real, poné «todavía no probado» en el campo correspondiente.
+3. Revisá que no incluya datos privados y enviáselo a Lucas por WhatsApp. No hace falta mandar el chat completo.
+4. Cuando uses el HBP, podés devolver qué ayudó y qué siguió molestando. Opcionalmente, compará la misma consulta con y sin HBP en chats separados del mismo modelo.
 
-Antes de enviarlo, quitá información personal, código interno y datos de clientes o de la empresa. No publiques perfiles de compañeros en el repo sin su permiso.
+El reporte de la IA describe la entrevista; tu devolución personal indica si las instrucciones te sirven. La IA no debe inventar tu opinión ni resultados de pruebas posteriores.
+
+No publiques perfiles de otras personas sin su permiso.
