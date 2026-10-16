@@ -1,9 +1,11 @@
-# Devolución de prueba · v0.1
+# Devolución de prueba · v0.2
 
 Enviá esta ficha a Lucas junto con tu HBP. No hace falta compartir el chat completo.
 
+- Versión del entrevistador: v0.2.
 - IA y modelo utilizado (si aparece):
-- Duración aproximada que mediste vos / cantidad de preguntas:
+- Duración aproximada que mediste vos / cantidad de respuestas tuyas:
+- ¿La entrevista recogió tu actividad, tarea y uso habitual de IA sin repetir preguntas?
 - HBP generado y notas de la entrevista:
 - ¿Representa cómo querés recibir ayuda? Sí / en parte / no. ¿Qué cambiarías?
 - Después de probarlo: ¿qué mejoró y qué siguió molestando?
