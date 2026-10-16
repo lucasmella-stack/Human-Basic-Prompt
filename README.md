@@ -1,4 +1,4 @@
-# Human Basic Prompt · v0.1
+# Human Basic Prompt · v0.2
 
 Una entrevista breve con tu IA para generar instrucciones sobre cómo comunicarse con vos: qué priorizar, cuánto explicar y cuándo preguntar.
 
@@ -6,7 +6,7 @@ Una entrevista breve con tu IA para generar instrucciones sobre cómo comunicars
 
 1. Abrí un chat nuevo en tu IA habitual.
 2. Copiá y pegá todo el contenido de [interviewer.md](interviewer.md).
-3. Respondé la entrevista: objetivo orientativo de 2–4 minutos, con un máximo de 6 turnos tuyos. Podés terminar antes.
+3. Respondé la entrevista: hasta 6 respuestas tuyas, adaptadas a lo que ya contaste. Podés escribir «terminar» en cualquier momento.
 4. Copiá el HBP generado a un chat nuevo y usalo con una consulta real.
 5. Devolvé a Lucas tu HBP y [esta ficha breve](feedback.md). Si podés, compará la misma consulta con y sin HBP en chats separados del mismo modelo.
 
@@ -16,9 +16,13 @@ No hace falta enviar conversaciones completas ni información del trabajo. Revis
 
 Que una interacción corta permita producir reglas útiles para entender y trabajar con menos esfuerzo. El perfil es provisional y puede cambiar según la tarea, los conocimientos y el tiempo disponible.
 
-Es un prototipo inspirado en evaluación dinámica, evaluación adaptativa y carga cognitiva; todavía no es un instrumento validado. No diagnostica capacidades ni asigna estilos de aprendizaje fijos. El tiempo es una meta de diseño, no una promesa.
+Es un prototipo inspirado en evaluación dinámica, evaluación adaptativa y carga cognitiva; todavía no es un instrumento validado. No diagnostica capacidades ni asigna estilos de aprendizaje fijos. La duración real se recogerá en las pruebas.
 
 La primera versión es un prompt portable; no requiere instalar una skill ni modificar AGENTS.md. [Ejemplo ficticio de salida](examples/HBP-example.md).
+
+## Qué cambia en v0.2
+
+Primero recoge actividad, tareas y uso habitual de IA. Después prueba una forma de comunicar adecuada a ese contexto y confirma cuándo sirve y cuándo necesita excepciones. Las horas de uso no se interpretan como cantidad de lectura ni como necesidad automática de respuestas cortas.
 
 ## Bases del diseño
 
